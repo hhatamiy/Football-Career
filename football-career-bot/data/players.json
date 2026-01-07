@@ -4,20 +4,20 @@
     "name": "Hossein Hatami",
     "position": "ST",
     "age": 18,
-    "overall": 58,
+    "overall": 61,
     "potential": 85,
     "stats": {
-      "pace": 65,
-      "shooting": 65,
+      "pace": 69,
+      "shooting": 69,
       "passing": 53,
-      "defending": 22,
+      "defending": 27,
       "physical": 50
     },
-    "form": 0,
-    "stamina": 100,
-    "marketValue": 5,
-    "matchesPlayed": 0,
-    "goals": 0,
+    "form": 8.15,
+    "stamina": 32,
+    "marketValue": 15.281820000000003,
+    "matchesPlayed": 1,
+    "goals": 2,
     "assists": 0,
     "currentTeam": "LEAGUE_3_6",
     "contract": {
@@ -31,7 +31,7 @@
     "pendingOffers": [],
     "season": {
       "number": 1,
-      "matchesPlayed": 0
+      "matchesPlayed": 1
     },
     "injury": null,
     "careerStats": {
