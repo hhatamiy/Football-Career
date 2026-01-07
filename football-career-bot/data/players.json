@@ -1,0 +1,42 @@
+{
+  "729038476603031582": {
+    "userId": "729038476603031582",
+    "name": "Hossein Hatami",
+    "position": "ST",
+    "age": 18,
+    "overall": 58,
+    "potential": 85,
+    "stats": {
+      "pace": 65,
+      "shooting": 65,
+      "passing": 53,
+      "defending": 22,
+      "physical": 50
+    },
+    "form": 0,
+    "stamina": 100,
+    "marketValue": 5,
+    "matchesPlayed": 0,
+    "goals": 0,
+    "assists": 0,
+    "currentTeam": "LEAGUE_3_6",
+    "contract": {
+      "teamId": "LEAGUE_3_6",
+      "salary": 2.85,
+      "length": 2,
+      "startDate": "2026-01-07T20:02:36.020Z",
+      "expiryDate": "2028-01-07T20:02:36.020Z",
+      "releaseClause": 116
+    },
+    "pendingOffers": [],
+    "season": {
+      "number": 1,
+      "matchesPlayed": 0
+    },
+    "injury": null,
+    "careerStats": {
+      "bigGamePerformances": 0,
+      "trophies": []
+    }
+  }
+}

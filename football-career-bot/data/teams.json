@@ -1,0 +1,1444 @@
+{
+  "LEAGUE_3_1": {
+    "id": "LEAGUE_3_1",
+    "name": "Derby United",
+    "league": "LEAGUE_3",
+    "rating": 69,
+    "facilities": 3,
+    "budget": 56.5,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "LEAGUE_3_2": {
+    "id": "LEAGUE_3_2",
+    "name": "Southampton Town",
+    "league": "LEAGUE_3",
+    "rating": 63,
+    "facilities": 2,
+    "budget": 56.5,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "LEAGUE_3_3": {
+    "id": "LEAGUE_3_3",
+    "name": "Newcastle Rovers",
+    "league": "LEAGUE_3",
+    "rating": 59,
+    "facilities": 2,
+    "budget": 35.5,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "LEAGUE_3_4": {
+    "id": "LEAGUE_3_4",
+    "name": "Leeds FC",
+    "league": "LEAGUE_3",
+    "rating": 60,
+    "facilities": 2,
+    "budget": 32,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "LEAGUE_3_5": {
+    "id": "LEAGUE_3_5",
+    "name": "Cardiff United",
+    "league": "LEAGUE_3",
+    "rating": 70,
+    "facilities": 3,
+    "budget": 44,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "LEAGUE_3_6": {
+    "id": "LEAGUE_3_6",
+    "name": "Leeds Rovers",
+    "league": "LEAGUE_3",
+    "rating": 53,
+    "facilities": 1,
+    "budget": 23.5,
+    "squad": [
+      "729038476603031582"
+    ],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "LEAGUE_3_7": {
+    "id": "LEAGUE_3_7",
+    "name": "Norwich Albion",
+    "league": "LEAGUE_3",
+    "rating": 55,
+    "facilities": 2,
+    "budget": 23.5,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "LEAGUE_3_8": {
+    "id": "LEAGUE_3_8",
+    "name": "Newcastle United",
+    "league": "LEAGUE_3",
+    "rating": 55,
+    "facilities": 2,
+    "budget": 46.5,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "LEAGUE_3_9": {
+    "id": "LEAGUE_3_9",
+    "name": "Burnley FC",
+    "league": "LEAGUE_3",
+    "rating": 66,
+    "facilities": 3,
+    "budget": 52,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "LEAGUE_3_10": {
+    "id": "LEAGUE_3_10",
+    "name": "Brighton Athletic",
+    "league": "LEAGUE_3",
+    "rating": 69,
+    "facilities": 3,
+    "budget": 53.5,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "LEAGUE_3_11": {
+    "id": "LEAGUE_3_11",
+    "name": "Burnley FC",
+    "league": "LEAGUE_3",
+    "rating": 68,
+    "facilities": 3,
+    "budget": 58,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "LEAGUE_3_12": {
+    "id": "LEAGUE_3_12",
+    "name": "Sheffield Rangers",
+    "league": "LEAGUE_3",
+    "rating": 59,
+    "facilities": 2,
+    "budget": 32.5,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "LEAGUE_3_13": {
+    "id": "LEAGUE_3_13",
+    "name": "Liverpool Town",
+    "league": "LEAGUE_3",
+    "rating": 57,
+    "facilities": 2,
+    "budget": 27.5,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "LEAGUE_3_14": {
+    "id": "LEAGUE_3_14",
+    "name": "Leicester Albion",
+    "league": "LEAGUE_3",
+    "rating": 64,
+    "facilities": 2,
+    "budget": 54,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "LEAGUE_3_15": {
+    "id": "LEAGUE_3_15",
+    "name": "Southampton City",
+    "league": "LEAGUE_3",
+    "rating": 60,
+    "facilities": 2,
+    "budget": 41,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "LEAGUE_3_16": {
+    "id": "LEAGUE_3_16",
+    "name": "Birmingham Rovers",
+    "league": "LEAGUE_3",
+    "rating": 62,
+    "facilities": 2,
+    "budget": 27,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "LEAGUE_3_17": {
+    "id": "LEAGUE_3_17",
+    "name": "Southampton Town",
+    "league": "LEAGUE_3",
+    "rating": 65,
+    "facilities": 3,
+    "budget": 28.5,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "LEAGUE_3_18": {
+    "id": "LEAGUE_3_18",
+    "name": "Watford Rovers",
+    "league": "LEAGUE_3",
+    "rating": 63,
+    "facilities": 2,
+    "budget": 56.5,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "LEAGUE_3_19": {
+    "id": "LEAGUE_3_19",
+    "name": "Brighton United",
+    "league": "LEAGUE_3",
+    "rating": 59,
+    "facilities": 2,
+    "budget": 37.5,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "LEAGUE_3_20": {
+    "id": "LEAGUE_3_20",
+    "name": "Newcastle City",
+    "league": "LEAGUE_3",
+    "rating": 70,
+    "facilities": 3,
+    "budget": 31,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "LEAGUE_2_1": {
+    "id": "LEAGUE_2_1",
+    "name": "Derby United",
+    "league": "LEAGUE_2",
+    "rating": 64,
+    "facilities": 2,
+    "budget": 62,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "LEAGUE_2_2": {
+    "id": "LEAGUE_2_2",
+    "name": "Swansea Rovers",
+    "league": "LEAGUE_2",
+    "rating": 61,
+    "facilities": 2,
+    "budget": 31.5,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "LEAGUE_2_3": {
+    "id": "LEAGUE_2_3",
+    "name": "Swansea United",
+    "league": "LEAGUE_2",
+    "rating": 66,
+    "facilities": 3,
+    "budget": 55,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "LEAGUE_2_4": {
+    "id": "LEAGUE_2_4",
+    "name": "Reading Wanderers",
+    "league": "LEAGUE_2",
+    "rating": 67,
+    "facilities": 3,
+    "budget": 54.5,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "LEAGUE_2_5": {
+    "id": "LEAGUE_2_5",
+    "name": "Sheffield Albion",
+    "league": "LEAGUE_2",
+    "rating": 62,
+    "facilities": 2,
+    "budget": 57,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "LEAGUE_2_6": {
+    "id": "LEAGUE_2_6",
+    "name": "Brighton Albion",
+    "league": "LEAGUE_2",
+    "rating": 80,
+    "facilities": 4,
+    "budget": 57,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "LEAGUE_2_7": {
+    "id": "LEAGUE_2_7",
+    "name": "Newcastle Athletic",
+    "league": "LEAGUE_2",
+    "rating": 77,
+    "facilities": 4,
+    "budget": 55.5,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "LEAGUE_2_8": {
+    "id": "LEAGUE_2_8",
+    "name": "Derby United",
+    "league": "LEAGUE_2",
+    "rating": 67,
+    "facilities": 3,
+    "budget": 45.5,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "LEAGUE_2_9": {
+    "id": "LEAGUE_2_9",
+    "name": "Birmingham Wanderers",
+    "league": "LEAGUE_2",
+    "rating": 73,
+    "facilities": 3,
+    "budget": 54.5,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "LEAGUE_2_10": {
+    "id": "LEAGUE_2_10",
+    "name": "Leicester Athletic",
+    "league": "LEAGUE_2",
+    "rating": 76,
+    "facilities": 4,
+    "budget": 40,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "LEAGUE_2_11": {
+    "id": "LEAGUE_2_11",
+    "name": "Burnley Town",
+    "league": "LEAGUE_2",
+    "rating": 75,
+    "facilities": 4,
+    "budget": 66.5,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "LEAGUE_2_12": {
+    "id": "LEAGUE_2_12",
+    "name": "Brighton Albion",
+    "league": "LEAGUE_2",
+    "rating": 66,
+    "facilities": 3,
+    "budget": 55,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "LEAGUE_2_13": {
+    "id": "LEAGUE_2_13",
+    "name": "Cardiff Wanderers",
+    "league": "LEAGUE_2",
+    "rating": 70,
+    "facilities": 3,
+    "budget": 51,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "LEAGUE_2_14": {
+    "id": "LEAGUE_2_14",
+    "name": "London Rovers",
+    "league": "LEAGUE_2",
+    "rating": 63,
+    "facilities": 2,
+    "budget": 42.5,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "LEAGUE_2_15": {
+    "id": "LEAGUE_2_15",
+    "name": "Newcastle Albion",
+    "league": "LEAGUE_2",
+    "rating": 72,
+    "facilities": 3,
+    "budget": 55,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "LEAGUE_2_16": {
+    "id": "LEAGUE_2_16",
+    "name": "Bristol Rangers",
+    "league": "LEAGUE_2",
+    "rating": 75,
+    "facilities": 4,
+    "budget": 50.5,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "LEAGUE_2_17": {
+    "id": "LEAGUE_2_17",
+    "name": "Derby Wanderers",
+    "league": "LEAGUE_2",
+    "rating": 65,
+    "facilities": 3,
+    "budget": 56.5,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "LEAGUE_2_18": {
+    "id": "LEAGUE_2_18",
+    "name": "Derby Rangers",
+    "league": "LEAGUE_2",
+    "rating": 64,
+    "facilities": 2,
+    "budget": 48,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "LEAGUE_2_19": {
+    "id": "LEAGUE_2_19",
+    "name": "Watford Rangers",
+    "league": "LEAGUE_2",
+    "rating": 74,
+    "facilities": 3,
+    "budget": 64,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "LEAGUE_2_20": {
+    "id": "LEAGUE_2_20",
+    "name": "Newcastle United",
+    "league": "LEAGUE_2",
+    "rating": 67,
+    "facilities": 3,
+    "budget": 34.5,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "LEAGUE_1_1": {
+    "id": "LEAGUE_1_1",
+    "name": "Derby Rangers",
+    "league": "LEAGUE_1",
+    "rating": 84,
+    "facilities": 4,
+    "budget": 49,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "LEAGUE_1_2": {
+    "id": "LEAGUE_1_2",
+    "name": "Bristol Wanderers",
+    "league": "LEAGUE_1",
+    "rating": 74,
+    "facilities": 3,
+    "budget": 42,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "LEAGUE_1_3": {
+    "id": "LEAGUE_1_3",
+    "name": "Leeds Wanderers",
+    "league": "LEAGUE_1",
+    "rating": 88,
+    "facilities": 5,
+    "budget": 56,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "LEAGUE_1_4": {
+    "id": "LEAGUE_1_4",
+    "name": "Leicester Rangers",
+    "league": "LEAGUE_1",
+    "rating": 89,
+    "facilities": 5,
+    "budget": 77.5,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "LEAGUE_1_5": {
+    "id": "LEAGUE_1_5",
+    "name": "Reading Town",
+    "league": "LEAGUE_1",
+    "rating": 76,
+    "facilities": 4,
+    "budget": 62,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "LEAGUE_1_6": {
+    "id": "LEAGUE_1_6",
+    "name": "Manchester Albion",
+    "league": "LEAGUE_1",
+    "rating": 76,
+    "facilities": 4,
+    "budget": 70,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "LEAGUE_1_7": {
+    "id": "LEAGUE_1_7",
+    "name": "Leicester Rovers",
+    "league": "LEAGUE_1",
+    "rating": 72,
+    "facilities": 3,
+    "budget": 52,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "LEAGUE_1_8": {
+    "id": "LEAGUE_1_8",
+    "name": "Derby City",
+    "league": "LEAGUE_1",
+    "rating": 80,
+    "facilities": 4,
+    "budget": 64,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "LEAGUE_1_9": {
+    "id": "LEAGUE_1_9",
+    "name": "Manchester Wanderers",
+    "league": "LEAGUE_1",
+    "rating": 88,
+    "facilities": 5,
+    "budget": 77,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "LEAGUE_1_10": {
+    "id": "LEAGUE_1_10",
+    "name": "Leeds FC",
+    "league": "LEAGUE_1",
+    "rating": 77,
+    "facilities": 4,
+    "budget": 65.5,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "LEAGUE_1_11": {
+    "id": "LEAGUE_1_11",
+    "name": "Derby Wanderers",
+    "league": "LEAGUE_1",
+    "rating": 72,
+    "facilities": 3,
+    "budget": 49,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "LEAGUE_1_12": {
+    "id": "LEAGUE_1_12",
+    "name": "Newcastle Wanderers",
+    "league": "LEAGUE_1",
+    "rating": 88,
+    "facilities": 5,
+    "budget": 53,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "LEAGUE_1_13": {
+    "id": "LEAGUE_1_13",
+    "name": "Sheffield Wanderers",
+    "league": "LEAGUE_1",
+    "rating": 76,
+    "facilities": 4,
+    "budget": 70,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "LEAGUE_1_14": {
+    "id": "LEAGUE_1_14",
+    "name": "Portsmouth FC",
+    "league": "LEAGUE_1",
+    "rating": 90,
+    "facilities": 5,
+    "budget": 75,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "LEAGUE_1_15": {
+    "id": "LEAGUE_1_15",
+    "name": "Liverpool Wanderers",
+    "league": "LEAGUE_1",
+    "rating": 77,
+    "facilities": 4,
+    "budget": 46.5,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "LEAGUE_1_16": {
+    "id": "LEAGUE_1_16",
+    "name": "Birmingham Albion",
+    "league": "LEAGUE_1",
+    "rating": 79,
+    "facilities": 4,
+    "budget": 68.5,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "LEAGUE_1_17": {
+    "id": "LEAGUE_1_17",
+    "name": "Cardiff City",
+    "league": "LEAGUE_1",
+    "rating": 78,
+    "facilities": 4,
+    "budget": 66,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "LEAGUE_1_18": {
+    "id": "LEAGUE_1_18",
+    "name": "Cardiff Rangers",
+    "league": "LEAGUE_1",
+    "rating": 90,
+    "facilities": 5,
+    "budget": 54,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "LEAGUE_1_19": {
+    "id": "LEAGUE_1_19",
+    "name": "Portsmouth Town",
+    "league": "LEAGUE_1",
+    "rating": 82,
+    "facilities": 4,
+    "budget": 75,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "LEAGUE_1_20": {
+    "id": "LEAGUE_1_20",
+    "name": "Portsmouth Wanderers",
+    "league": "LEAGUE_1",
+    "rating": 74,
+    "facilities": 3,
+    "budget": 64,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "PREMIER_LEAGUE_1": {
+    "id": "PREMIER_LEAGUE_1",
+    "name": "London United",
+    "league": "PREMIER_LEAGUE",
+    "rating": 83,
+    "facilities": 4,
+    "budget": 75.5,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "PREMIER_LEAGUE_2": {
+    "id": "PREMIER_LEAGUE_2",
+    "name": "Derby Town",
+    "league": "PREMIER_LEAGUE",
+    "rating": 83,
+    "facilities": 4,
+    "budget": 71.5,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "PREMIER_LEAGUE_3": {
+    "id": "PREMIER_LEAGUE_3",
+    "name": "Manchester FC",
+    "league": "PREMIER_LEAGUE",
+    "rating": 93,
+    "facilities": 5,
+    "budget": 57.5,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "PREMIER_LEAGUE_4": {
+    "id": "PREMIER_LEAGUE_4",
+    "name": "Portsmouth Rovers",
+    "league": "PREMIER_LEAGUE",
+    "rating": 90,
+    "facilities": 5,
+    "budget": 81,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "PREMIER_LEAGUE_5": {
+    "id": "PREMIER_LEAGUE_5",
+    "name": "London Albion",
+    "league": "PREMIER_LEAGUE",
+    "rating": 81,
+    "facilities": 4,
+    "budget": 74.5,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "PREMIER_LEAGUE_6": {
+    "id": "PREMIER_LEAGUE_6",
+    "name": "Watford City",
+    "league": "PREMIER_LEAGUE",
+    "rating": 86,
+    "facilities": 5,
+    "budget": 55,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "PREMIER_LEAGUE_7": {
+    "id": "PREMIER_LEAGUE_7",
+    "name": "Cardiff Rangers",
+    "league": "PREMIER_LEAGUE",
+    "rating": 93,
+    "facilities": 5,
+    "budget": 85.5,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "PREMIER_LEAGUE_8": {
+    "id": "PREMIER_LEAGUE_8",
+    "name": "Liverpool Wanderers",
+    "league": "PREMIER_LEAGUE",
+    "rating": 88,
+    "facilities": 5,
+    "budget": 62,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "PREMIER_LEAGUE_9": {
+    "id": "PREMIER_LEAGUE_9",
+    "name": "Newcastle Town",
+    "league": "PREMIER_LEAGUE",
+    "rating": 82,
+    "facilities": 4,
+    "budget": 66,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "PREMIER_LEAGUE_10": {
+    "id": "PREMIER_LEAGUE_10",
+    "name": "Reading FC",
+    "league": "PREMIER_LEAGUE",
+    "rating": 90,
+    "facilities": 5,
+    "budget": 76,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "PREMIER_LEAGUE_11": {
+    "id": "PREMIER_LEAGUE_11",
+    "name": "Leeds Town",
+    "league": "PREMIER_LEAGUE",
+    "rating": 86,
+    "facilities": 5,
+    "budget": 56,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "PREMIER_LEAGUE_12": {
+    "id": "PREMIER_LEAGUE_12",
+    "name": "Leicester City",
+    "league": "PREMIER_LEAGUE",
+    "rating": 89,
+    "facilities": 5,
+    "budget": 56.5,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "PREMIER_LEAGUE_13": {
+    "id": "PREMIER_LEAGUE_13",
+    "name": "Bristol United",
+    "league": "PREMIER_LEAGUE",
+    "rating": 84,
+    "facilities": 4,
+    "budget": 64,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "PREMIER_LEAGUE_14": {
+    "id": "PREMIER_LEAGUE_14",
+    "name": "London Wanderers",
+    "league": "PREMIER_LEAGUE",
+    "rating": 91,
+    "facilities": 5,
+    "budget": 63.5,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "PREMIER_LEAGUE_15": {
+    "id": "PREMIER_LEAGUE_15",
+    "name": "Burnley Rangers",
+    "league": "PREMIER_LEAGUE",
+    "rating": 84,
+    "facilities": 4,
+    "budget": 81,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "PREMIER_LEAGUE_16": {
+    "id": "PREMIER_LEAGUE_16",
+    "name": "Leicester Rovers",
+    "league": "PREMIER_LEAGUE",
+    "rating": 83,
+    "facilities": 4,
+    "budget": 68.5,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "PREMIER_LEAGUE_17": {
+    "id": "PREMIER_LEAGUE_17",
+    "name": "Derby City",
+    "league": "PREMIER_LEAGUE",
+    "rating": 95,
+    "facilities": 5,
+    "budget": 79.5,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "PREMIER_LEAGUE_18": {
+    "id": "PREMIER_LEAGUE_18",
+    "name": "Bristol FC",
+    "league": "PREMIER_LEAGUE",
+    "rating": 87,
+    "facilities": 5,
+    "budget": 73.5,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "PREMIER_LEAGUE_19": {
+    "id": "PREMIER_LEAGUE_19",
+    "name": "Sheffield Town",
+    "league": "PREMIER_LEAGUE",
+    "rating": 85,
+    "facilities": 5,
+    "budget": 53.5,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  },
+  "PREMIER_LEAGUE_20": {
+    "id": "PREMIER_LEAGUE_20",
+    "name": "Reading Wanderers",
+    "league": "PREMIER_LEAGUE",
+    "rating": 81,
+    "facilities": 4,
+    "budget": 71.5,
+    "squad": [],
+    "standings": {
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "points": 0,
+      "matchesPlayed": 0
+    }
+  }
+}
